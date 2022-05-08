@@ -1,0 +1,17 @@
+﻿  ActivationFunctions.cpp
+  CNeuralNetwork.cpp
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(427): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(547): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(564): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(572): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(660): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_ui\neuralnetworkdll\cneuralnetwork.cpp(680): warning C4018: '<': signed/unsigned mismatch
+  CSVFileHandler.cpp
+  Exports.cpp
+d:\just\neuralnetworks_ui\neuralnetworkdll\exports.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+     Creating library D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkDLL.lib and object D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkDLL.exp
+  NeuralNetworkDLL.vcxproj -> D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkDLL.dll

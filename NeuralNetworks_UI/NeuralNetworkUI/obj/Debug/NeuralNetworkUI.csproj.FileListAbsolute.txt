@@ -1,0 +1,9 @@
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkUI.exe.config
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkUI.exe
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\bin\Debug\NeuralNetworkUI.pdb
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.Form1.resources
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.Properties.Resources.resources
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.csproj.GenerateResource.cache
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.csproj.CoreCompileInputs.cache
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.exe
+D:\just\NeuralNetworks_UI\NeuralNetworkUI\obj\Debug\NeuralNetworkUI.pdb
