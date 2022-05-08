@@ -5,6 +5,10 @@ Hello,
 
 This project is concentrated to make a simple GUI for training and testing of neural networks model for given training data
 
+**Tech Used:**
+1. C++
+2. C# WinForms
+
 **Input for the Application:**
 Using can give training data in CSV file format by browse option
 and adjust paramenters like number layers, learning rate, and number of neurons..etc.
