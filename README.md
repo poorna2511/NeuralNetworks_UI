@@ -28,5 +28,5 @@ and get results of all test cases in a table.
 2. C# WinForms
 
 **Working:**
-Training and testing related code is entirly implemneted in C++ using OOPS and STL which you can find in my other repo also.
-from this C++ DLL are created and function are exported which will be used in C# winforms by CLI.
+Training and testing related code is entirly implemented in C++ using OOPS and STL which you can find in my other repo also.
+From this C++ DLL are created and few functions are exported which will be used in C# winforms by CLI.
